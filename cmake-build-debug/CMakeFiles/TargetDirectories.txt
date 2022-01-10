@@ -1,0 +1,3 @@
+C:/projekt/pfoject_Git_train/cmake-build-debug/CMakeFiles/pfoject_Git_train.dir
+C:/projekt/pfoject_Git_train/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/projekt/pfoject_Git_train/cmake-build-debug/CMakeFiles/rebuild_cache.dir
